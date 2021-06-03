@@ -14,4 +14,4 @@ Repositório criado com intuito de reunir informações, fontes e tricks de OSIN
 - 👯 Estamos procurando colaboradores para o [Osint-Brazuca](https://github.com/osintbrazuca/Osint-Brazuca "Osint-Brazuca")
 - 📫 Como achar um admin: 
   - 🟢 Twitter: [https://twitter.com/MrCl0wnLab](https://twitter.com/MrCl0wnLab)
-  - 🟢 Twitter: [https://twitter.com/c4nh0t0](https://twitter.com/c4nh0t0)
+  - 🟢 Twitter: [https://twitter.com/c4nh0t0](https://twitter.com/C4nh0t0GH)
