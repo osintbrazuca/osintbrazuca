@@ -1,4 +1,4 @@
-[![Osint Brazuca's github stats](https://github-readme-stats.vercel.app/api?username=osintbrazuca&show_icons=true&theme=radical)](https://github.com/osintbrazuca/)
+[![Osint Brazuca's github stats](./assets/banner.png)](https://github.com/osintbrazuca/)
 
 __OSINT__ (sigla para Open source intelligence ou Inteligência de Fontes Abertas) é o termo usado, principalmente em inglês, para descrever a inteligência, no sentido de informações, como em serviço de inteligência, obtida através dados disponíveis para o público em geral, como jornais, revistas científicas e emissões de TV. OSINT é uma das fontes de inteligência. É conhecimento produzido através de dados e informações disponíveis e acessíveis a qualquer pessoa.
 
